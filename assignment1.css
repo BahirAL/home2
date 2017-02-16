@@ -1,0 +1,27 @@
+html
+{
+	background-color: lightblue;
+	color: black;
+}
+h1
+{
+	color: red;
+	text-align: center;
+	font-size: 35pt;
+}
+h2
+{
+	text-align: center;
+	color: purple;
+	font-size: 27pt;
+}
+p
+{
+	text-align: justify;
+	font-size: 15pt;
+}
+body
+{
+	text-align: center;
+}
+
