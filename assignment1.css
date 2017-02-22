@@ -24,4 +24,13 @@ body
 {
 	text-align: center;
 }
-
+ol
+{
+	text-align: left;
+}
+#valid
+{
+	display: block;
+	margin-left: auto
+	margin-right: auto;
+}
