@@ -34,3 +34,19 @@ li
 	margin-left: auto;
 	margin-right: auto;
 }
+.h2s
+{
+	background-color: blue;
+	color: orange;
+}
+p
+{
+	background-color: blurywood;
+	color: black;
+}
+#center
+{
+	text-align: center;
+}
+
+
