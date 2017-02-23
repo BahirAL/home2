@@ -7,13 +7,13 @@ h1
 {
 	color: red;
 	text-align: center;
-	font-size: 35pt;
+	font-size: 34pt;
 }
 h2
 {
 	text-align: center;
 	color: purple;
-	font-size: 27pt;
+	font-size: 30pt;
 }
 p
 {
@@ -24,9 +24,10 @@ body
 {
 	text-align: center;
 }
-li
+ol
 {
 	text-align: left;
+	font-size: 15pt;
 }
 #valid
 {
@@ -34,18 +35,19 @@ li
 	margin-left: auto;
 	margin-right: auto;
 }
-.h2s
-{
-	background-color: blue;
-	color: orange;
-}
-p
-{
-	background-color: blurywood;
-	color: black;
-}
+
 #center
 {
+	text-align: center;
+}
+#Toc
+{
+	font-size: 27pt;
+	color: maroon;
+}
+.Tabs
+{
+	font-size: 20pt;
 	text-align: center;
 }
 
