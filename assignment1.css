@@ -1,3 +1,15 @@
+html
+{
+	background-color: lightblue;
+	color: black;
+}
+h1
+{
+	color: red;
+	text-align: center;
+	font-size: 34pt;
+}
+h2
 {
 	text-align: center;
 	color: purple;
@@ -40,7 +52,7 @@ ol
 }
 #list
 {
-	font-size: 15pt;
+	font-size: 15 pt;
 	color: brown;
 }
 	
