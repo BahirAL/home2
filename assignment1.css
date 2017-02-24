@@ -34,13 +34,14 @@ ol
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	border: none;
 }
 
 #center
 {
 	text-align: center;
 }
-#Toc
+#Toc /* This was typed here because the intention was to only change the title of the table of contents and not the typing under it*/
 {
 	font-size: 27pt;
 	color: maroon;
@@ -52,8 +53,15 @@ ol
 }
 #list
 {
-	font-size: 15 pt;
+	font-size: 15pt;
 	color: brown;
+}
+img
+{
+	border-color: black;
+	border-width: thick;
+	border-style: solid;
+	padding: 0%
 }
 	
 
